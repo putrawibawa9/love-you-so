@@ -76,6 +76,10 @@ body {
   right: 0;
 }
 
+  .profile-picture {
+    width: 400px; /* Set desired width */
+    height: auto; /* Maintains aspect ratio */
+  }
 .idea-3 strong {
   border-radius: 3px;
   display: inline-block;
