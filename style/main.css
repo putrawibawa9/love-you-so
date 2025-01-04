@@ -76,6 +76,14 @@ body {
   right: 0;
 }
 
+.thankyou {
+  /* purple */
+  color: #BF40BF  ; /* Set text color */
+  font-weight: bold; /* Make text bold */
+  background-color: #f9f9f9; /* Set background color */
+ 
+}
+
   .profile-picture {
     width: 400px; /* Set desired width */
     height: auto; /* Maintains aspect ratio */
@@ -90,7 +98,7 @@ body {
   font-size: 4rem;
 }
 
-.idea-5 span, .idea-6 span, .wish-hbd span {
+.idea-5 span, .idea-6 span{
   display: inline-block;
 }
 
